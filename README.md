@@ -31,20 +31,20 @@ In order to get this information, we wrote a for loop to get the county from the
 
 - The candidates were:
   -  Charles Casper Stockham
--   Diana DeGette
--   Raymon Anthony Doane
+  -  Diana DeGette
+  -  Raymon Anthony Doane
 
 - The results were:
--   Candidate Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
--   Candidate Diana DeGette received 73.8% of the vote and 272,892 votes.
--   Candidate Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+  -  Candidate Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+  -  Candidate Diana DeGette received 73.8% of the vote and 272,892 votes.
+  -  Candidate Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 
 ![candidate_votes](https://user-images.githubusercontent.com/22451540/150659211-d6591ea9-e58b-46d4-8c96-bb994aaf9f8b.PNG)
 
 We followed the same process used in the county count. Wrote a for loop to retrieve the number of times a candidate's name came up in the election_results file and add it to the assigned name.
 
 - The winner of the election was:
--   Candidate Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+  -  Candidate Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 ![winner](https://user-images.githubusercontent.com/22451540/150659272-39d9e21f-99a6-4aca-a975-ec6ce27cc735.PNG)
 
