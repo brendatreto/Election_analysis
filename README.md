@@ -30,7 +30,7 @@ In order to get this information, we wrote a for loop to get the county from the
 - Following this process, we were able to see that **Denver** was the county with the largest voter turnout with **82.8%** of the total votes (**306,055 votes**). 
 
 - The candidates were:
--   Charles Casper Stockham
+  -  Charles Casper Stockham
 -   Diana DeGette
 -   Raymon Anthony Doane
 
